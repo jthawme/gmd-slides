@@ -12,6 +12,7 @@
   top: calc(var(--pos-y) * 100%);
   left: calc(var(--pos-x) * 100%);
 
+  pointer-events: none;
   z-index: 100;
 
   color: var(--pos-color);

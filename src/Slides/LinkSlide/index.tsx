@@ -14,7 +14,7 @@ const LinkSlide: React.FC<LinkSlideProps> = () => {
     <SlideTitleTemplate
       metaTitle="Go to this link"
       title="bit.ly/jt-gmd"
-      subtitle="Phone / Laptop"
+      subtitle="Phone is better"
     />
   );
 };

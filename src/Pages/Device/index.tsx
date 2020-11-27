@@ -86,7 +86,7 @@ const DevicePage = () => {
             }
           />
         )}
-        <p>Click anyway in here</p>
+        <p>Click anywhere in here</p>
       </div>
 
       <Title size="small" className={styles.title}>
